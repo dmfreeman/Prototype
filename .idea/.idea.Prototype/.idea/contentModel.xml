@@ -6,17 +6,113 @@
     <e p="C:\Users\User\Documents\Unity\Prototype" t="IncludeRecursive">
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
+        <e p="Samples" t="Include">
+          <e p="UI Toolkit" t="Include">
+            <e p="1.0.0-preview.12" t="Include">
+              <e p="UI Toolkit Examples" t="Include">
+                <e p="Editor" t="Include">
+                  <e p="Bootstraps" t="Include">
+                    <e p="RuntimeEventsClickEvent.cs" t="Include" />
+                    <e p="RuntimeEventsGeometryChanged.cs" t="Include" />
+                    <e p="RuntimeEventsKeyboardEvents.cs" t="Include" />
+                    <e p="RuntimeEventsPointerEvents.cs" t="Include" />
+                    <e p="RuntimeEventsTouchMove.cs" t="Include" />
+                    <e p="RuntimeGeneralRootSelector.cs" t="Include" />
+                    <e p="RuntimeRenderToTexture.cs" t="Include" />
+                    <e p="RuntimeTextAlignmentTags.cs" t="Include" />
+                    <e p="RuntimeTextAssets.cs" t="Include" />
+                    <e p="RuntimeTextBasicStyleTags.cs" t="Include" />
+                  </e>
+                  <e p="Events" t="Include">
+                    <e p="GeometryChangedWindow.cs" t="Include" />
+                    <e p="KeyboardEventsWindow.cs" t="Include" />
+                    <e p="PointerEventsWindow.cs" t="Include" />
+                  </e>
+                  <e p="General" t="Include">
+                    <e p="DataPersistenceWindow.cs" t="Include" />
+                    <e p="DragAndDropWindow.cs" t="Include" />
+                  </e>
+                  <e p="Rendering" t="Include">
+                    <e p="MeshApiWindow.cs" t="Include" />
+                  </e>
+                  <e p="Unity.UIElements.Samples.Editor.asmdef" t="Include" />
+                </e>
+                <e p="Resources" t="Include">
+                  <e p="Layouts" t="Include">
+                    <e p="Events_ClickEvent.uxml" t="Include" />
+                    <e p="Events_GeometryChanged.uxml" t="Include" />
+                    <e p="Events_KeyboardEvents.uxml" t="Include" />
+                    <e p="Events_PointerEvents.uxml" t="Include" />
+                    <e p="Events_TouchMove.uxml" t="Include" />
+                    <e p="General_DataPersistence.uxml" t="Include" />
+                    <e p="General_DragAndDrop.uxml" t="Include" />
+                    <e p="General_RootSelectorForRuntime.uxml" t="Include" />
+                    <e p="Rendering_RenderTextureBackground.uxml" t="Include" />
+                    <e p="Text_AlignmentTags.uxml" t="Include" />
+                    <e p="Text_Assets.uxml" t="Include" />
+                    <e p="Text_BasicStyleTags.uxml" t="Include" />
+                  </e>
+                  <e p="StyleSheets" t="Include">
+                    <e p="Events_ClickEvent.uss" t="Include" />
+                    <e p="Events_GeometryChanged.uss" t="Include" />
+                    <e p="Events_KeyboardEvents.uss" t="Include" />
+                    <e p="Events_PointerEvents.uss" t="Include" />
+                    <e p="Events_TouchMove.uss" t="Include" />
+                    <e p="General_DataPersistence.uss" t="Include" />
+                    <e p="General_DragAndDrop.uss" t="Include" />
+                    <e p="General_RootSelectorForRuntime.uss" t="Include" />
+                    <e p="Rendering_RenderTextureBackground.uss" t="Include" />
+                    <e p="Text_AlignmentTags.uss" t="Include" />
+                    <e p="Text_Assets.uss" t="Include" />
+                    <e p="Text_BasicStyleTags.uss" t="Include" />
+                  </e>
+                </e>
+                <e p="Runtime" t="Include">
+                  <e p="Events" t="Include">
+                    <e p="ClickEventSample.cs" t="Include" />
+                    <e p="GeometryChanged.cs" t="Include" />
+                    <e p="KeyboardEvents.cs" t="Include" />
+                    <e p="PointerEvents.cs" t="Include" />
+                    <e p="TouchMove.cs" t="Include" />
+                  </e>
+                  <e p="General" t="Include">
+                    <e p="RootSelector.cs" t="Include" />
+                  </e>
+                  <e p="Rendering" t="Include">
+                    <e p="RenderTextureBackgroundDemo.cs" t="Include" />
+                    <e p="Rotator.cs" t="Include" />
+                    <e p="UITextureProjection.cs" t="Include" />
+                  </e>
+                  <e p="Text" t="Include">
+                    <e p="AlignmentTags.cs" t="Include" />
+                    <e p="BasicStyleTags.cs" t="Include" />
+                    <e p="TextAssets.cs" t="Include" />
+                  </e>
+                </e>
+                <e p="Unity.UIElements.Samples.asmdef" t="Include" />
+              </e>
+            </e>
+          </e>
+        </e>
         <e p="Scripts" t="Include">
           <e p="Components" t="Include">
             <e p="C_TunnelSize.cs" t="Include" />
           </e>
+          <e p="Rotate.cs" t="Include" />
           <e p="TunnelSize.cs" t="Include" />
+        </e>
+        <e p="UI Toolkit" t="Include">
+          <e p="Sprites" t="Include">
+            <e p="EmojiOne Attribution.txt" t="Include" />
+          </e>
         </e>
       </e>
       <e p="obj" t="ExcludeRecursive" />
       <e p="Packages" t="ExcludeRecursive" />
       <e p="Prototype.sln" t="IncludeFlat" />
       <e p="Temp\Bin" t="ExcludeRecursive" />
+      <e p="Unity.UIElements.Samples.csproj" t="IncludeRecursive" />
+      <e p="Unity.UIElements.Samples.Editor.csproj" t="IncludeRecursive" />
     </e>
   </component>
 </project>

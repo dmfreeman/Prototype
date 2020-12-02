@@ -9,7 +9,21 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/TunnelSize.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Samples/UI Toolkit/1.0.0-preview.12/UI Toolkit Examples/Editor/General/DataPersistenceWindow.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Samples/UI Toolkit/1.0.0-preview.12/UI Toolkit Examples/Editor/General/DragAndDropWindow.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Samples/UI Toolkit/1.0.0-preview.12/UI Toolkit Examples/Editor/Unity.UIElements.Samples.Editor.asmdef" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Samples/UI Toolkit/1.0.0-preview.12/UI Toolkit Examples/Editor/Rendering/MeshApiWindow.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Components/C_TunnelSize.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Rotate.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Samples/UI Toolkit/1.0.0-preview.12/UI Toolkit Examples/Editor/Bootstraps/RuntimeEventsPointerEvents.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Samples/UI Toolkit/1.0.0-preview.12/UI Toolkit Examples/Editor/Events/PointerEventsWindow.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/Rotate.cs" />
+      </list>
+    </option>
   </component>
   <component name="ProjectId" id="1kT2BKHs7aZMp43jkFstnbbXyk4" />
   <component name="ProjectViewState">
